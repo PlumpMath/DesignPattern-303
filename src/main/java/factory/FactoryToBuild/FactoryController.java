@@ -13,6 +13,8 @@ import factory.abstractFactory.TextField;
 public class FactoryController {
 	
 	public Windows crateteSummberWindow(){
+		
+		
 		SkinFactory factory = null;
 		Button bt = factory.createButton();
 		TextField tf = factory.createTextField();
