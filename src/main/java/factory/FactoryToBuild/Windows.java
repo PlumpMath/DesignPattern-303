@@ -6,6 +6,9 @@ import factory.abstractFactory.TextField;
 
 public class Windows {
 	
+	private Button button2;
+
+	
 	private Button button;
 	
 	private TextField textField;
