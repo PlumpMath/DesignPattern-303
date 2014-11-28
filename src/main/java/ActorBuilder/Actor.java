@@ -16,6 +16,10 @@ public class Actor {
 		this.sex = sex;
 	}
 
+	
+	
+	
+	
 	public void setFace(String face) {
 		this.face = face;
 	}
