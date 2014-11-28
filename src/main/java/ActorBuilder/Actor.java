@@ -7,8 +7,6 @@ public class Actor {
     private  String face; //脸型
     private  String costume; //服装
     private  String hairstyle; //发型
-    private int num;
-    private String name;
    
 	public void setType(String type) {
 		this.type = type;
