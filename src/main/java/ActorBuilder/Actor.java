@@ -17,9 +17,6 @@ public class Actor {
 	}
 
 	
-	
-	
-	
 	public void setFace(String face) {
 		this.face = face;
 	}
